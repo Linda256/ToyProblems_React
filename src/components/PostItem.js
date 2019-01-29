@@ -1,19 +1,6 @@
-// 
-
 import React from 'react';
 import ApprovalCard from './ApprovalCard';
 
-/*
-const PostItem = (props)=>{
-	console.log("props in PostItem", props);
-	return(
-		<li>
-			<p>{props.post.name} {props.post.createdAt}</p>
-			<p>{props.post.content}</p>
-		</li>
-	)
-}
-*/
 
 const PostItem = (props)=>{
 	return(
